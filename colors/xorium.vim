@@ -34,7 +34,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "xorium2"
+let colors_name = "xorium"
 
 "  Group        ctermfg     guifg         ctermbg     guibg         cterm      gui
 hi Normal       ctermfg=252 guifg=#d0d0d0 ctermbg=234 guibg=#1c1c1c cterm=none gui=none
