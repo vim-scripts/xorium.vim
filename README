@@ -1,8 +1,12 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=3655
 
+Xorium is a colorful and easy to read color scheme featuring easily identifiable syntax highlighting and unobtrusive invisibles (for when you have :set list).
+
 Based off of Dmitriy Zotikov's original theme, xoria256: http://www.vim.org/scripts/script.php?script_id=2140
 
-Screen shots (showing invisibles and cursorline):
-Java    - http://i.imgur.com/sbfnq.png
-.vimrc  - http://i.imgur.com/JYTbG.png
-vimdiff  - http://i.imgur.com/mv10n.png
+Screen shots (showing cursorline):
+Java    - http://i.imgur.com/aGe4b.png
+.vimrc  - http://i.imgur.com/RAc0z.png (with invisibles)
+vimdiff  - http://i.imgur.com/eT65o.png
+
+The font used in the screen shots is the free "Anonymous Pro" (http://www.ms-studio.com/FontSales/anonymouspro.html).

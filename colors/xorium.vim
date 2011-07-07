@@ -1,7 +1,7 @@
 " Vim color file
 "
 " Name:        xorium.vim
-" Version:     1.0
+" Version:     1.05
 " Maintainer:  AUAnonymous <auanonymous@gmail.com>
 "
 " Based off of Dmitriy Y. Zotikov's (xio, <xio@ungrund.org>) xoria256
@@ -47,17 +47,17 @@ hi FoldColumn   ctermfg=247 guifg=#9e9e9e ctermbg=233 guibg=#121212
 hi Folded       ctermfg=255 guifg=#eeeeee ctermbg=60  guibg=#5f5f87
 hi IncSearch    ctermfg=0   guifg=#000000 ctermbg=223 guibg=#ffdfaf cterm=none gui=none
 hi LineNr       ctermfg=247 guifg=#9e9e9e ctermbg=233 guibg=#121212
-hi MatchParen   ctermfg=188 guifg=#dfdfdf ctermbg=68  guibg=#5f87df cterm=none gui=none
+hi MatchParen   ctermfg=195 guifg=#dfffff ctermbg=238 guibg=#444444 cterm=none gui=none
 " TODO
 " hi MoreMsg
-hi NonText      ctermfg=236 guifg=#2c2c2c                           cterm=none gui=none
+hi NonText      ctermfg=236 guifg=#303030                           cterm=none gui=none
 hi Pmenu        ctermfg=0   guifg=#000000 ctermbg=250 guibg=#bcbcbc
 hi PmenuSel     ctermfg=255 guifg=#eeeeee ctermbg=243 guibg=#767676
 hi PmenuSbar                              ctermbg=252 guibg=#d0d0d0
 hi PmenuThumb   ctermfg=243 guifg=#767676
-hi Search       ctermfg=0   guifg=#000000 ctermbg=149 guibg=#afdf5f ctermbg=149
+hi Search       ctermfg=0   guifg=#000000 ctermbg=156 guibg=#afff87 ctermbg=149
 hi SignColumn   ctermfg=248 guifg=#a8a8a8
-hi SpecialKey   ctermfg=237 guifg=#3d3d3d
+hi SpecialKey   ctermfg=236 guifg=#303030
 hi SpellBad     ctermfg=160 guifg=fg      ctermbg=bg                cterm=underline               guisp=#df0000
 hi SpellCap     ctermfg=189 guifg=#dfdfff ctermbg=bg  guibg=bg      cterm=underline gui=underline
 hi SpellRare    ctermfg=168 guifg=#df5f87 ctermbg=bg  guibg=bg      cterm=underline gui=underline
@@ -68,11 +68,11 @@ hi TabLine      ctermfg=fg  guifg=fg      ctermbg=242 guibg=#666666 cterm=none g
 hi TabLineFill  ctermfg=fg  guifg=fg      ctermbg=237 guibg=#3a3a3a cterm=none gui=none
 " FIXME
 hi Title        ctermfg=225 guifg=#ffdfff
-hi TODO         ctermfg=0   guifg=#000000 ctermbg=220 guibg=#ffc400
+hi TODO         ctermfg=11  guifg=#ffff00 ctermbg=233 guibg=#121212
 hi Underlined   ctermfg=39  guifg=#00afff                           cterm=underline gui=underline
 hi VertSplit    ctermfg=237 guifg=#3a3a3a ctermbg=237 guibg=#3a3a3a cterm=none gui=none
-hi Visual       ctermfg=234 guifg=#202020 ctermbg=220 guibg=#FFD000
-hi VisualNOS    ctermfg=255 guifg=#eeeeee ctermbg=60  guibg=#5f5f87
+hi Visual       ctermfg=234 guifg=#202020 ctermbg=220 guibg=#ffd000
+hi VisualNOS    ctermfg=234 guifg=#202020 ctermbg=200 guibg=#ffd000
 hi WildMenu     ctermfg=0   guifg=#000000 ctermbg=150 guibg=#afdf87 cterm=bold gui=bold
 
 "" Syntax highlighting {{{2
